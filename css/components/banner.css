@@ -1,0 +1,27 @@
+.banner {
+	background-image: linear-gradient(rgba(0,0,0,0.05)0%,rgba(0,0,0,0.2)50%), url(../../images/background.jpeg);
+
+color: white;
+padding: 100px 0px;
+background-size: contain;
+background-position: center;
+}
+
+.banner h1 {
+	font-size: 100px;
+	font-variant-caps: small-caps;
+	color: #e86d8aba;
+	text-align: center;
+}
+
+.banner h2 {
+	font-size: 45px;
+	color: white;
+	text-decoration: none;
+	font-weight: lighter;
+	font-family: 'Montez', cursive;
+
+}
+.banner a {
+	text-align: left;
+}
